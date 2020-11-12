@@ -1,6 +1,6 @@
 ### Hi there, I'm Balendu 👋
 
-- 👯 I’m looking to collaborate on WebApp and Software Development Projects
+- 👯 I’m looking to collaborate on Software and WebApp Development Projects
 
 ---
 <!--
